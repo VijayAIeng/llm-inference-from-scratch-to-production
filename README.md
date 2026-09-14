@@ -1,4 +1,4 @@
-# LLM Inference From Scratch to Production
+# LLM Inference From Scratch to Production 
 
 This repository is my hands-on exploration of how Large Language Models actually perform inference, starting from a basic Transformer forward pass and gradually moving toward efficient, scalable, production-grade LLM serving.
 
